@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <Dakojic>, <Jaqin>, <Jla-chon>.*
+*Built by Dakojic, Jaqin and Jla-chon.*
 
 ## Description
 
